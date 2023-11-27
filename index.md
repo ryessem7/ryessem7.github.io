@@ -29,9 +29,9 @@ I developed a robust food industry database using MySQL, focusing on Hispanic re
 [Hispanic Restaurants Database](https://github.com/ryessem7/Group6-Final-INST377SP2022/tree/main)
 <img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/blob/3ef5cce796f42388a5d9f30201f4df508d7c836c/assets/images/Screen%20Shot%202022-05-06%20at%206.58.14%20PM.png"/>
 
-<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/assets/images/rests.png">
+<img src="assets/images/rests.png">
 
-<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/assets/images/revs.png">
+<img src="assets/images/revs.png">
 
 ---
 
