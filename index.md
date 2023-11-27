@@ -19,6 +19,7 @@ I conducted a Linear Regression Analysis to explore the relationship between avo
 [Linear Regression Analysis](/https://github.com/ryessem7/AvocadoMLR)
 
 <img src="images/graphuno.png?raw=true" />
+<img src="images/graphdos.png?raw=true" />
 
 ---
 
@@ -26,18 +27,19 @@ I conducted a Linear Regression Analysis to explore the relationship between avo
 I developed a robust food industry database using MySQL, focusing on Hispanic restaurants in the Washington, D.C., area. This database incorporates crucial details such as location, descriptive information, cuisine types, and customer reviews.
 
 [Hispanic Restaurants Database](https://github.com/ryessem7/Group6-Final-INST377SP2022/tree/main)
-<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/blob/3ef5cce796f42388a5d9f30201f4df508d7c836c/assets/images/Screen%20Shot%202022-05-06%20at%206.58.14%20PM.png"/>
+<img src="images/Screen Shot 2022-05-06 at 6.58.14 PM.png?raw=true"/>
 
-<img src="assets/images/rests.png">
+<img src="images/rests.png?raw=true" />
 
-<img src="assets/images/revs.png">
+<img src="images/revs.png?raw=true" />
 
 ---
 
 ### AirBnB Dashboard (Tableau)
-[AirBnB NYC Dash](https://public.tableau.com/app/profile/ryan.essem/viz/AirbnbDB_17010788237080/Dashboard1)
-
 I developed an engaging and informative interactive dashboard using Tableau, providing an overview of Airbnb listings in New York City. The dashboard showcases key insights such as average prices by neighborhood, top-rated areas and boroughs, total bookings, and more. This user-friendly visualization offers a dynamic exploration of the Airbnb landscape in the city, allowing users to effortlessly navigate and uncover valuable information about pricing trends, popular neighborhoods, and overall booking patterns in the vibrant metropolis of New York City.
+
+[AirBnB NYC Dash](https://public.tableau.com/app/profile/ryan.essem/viz/AirbnbDB_17010788237080/Dashboard1)
+<img src="images/dash13.png?raw=true" />
 
 ---
 
@@ -45,6 +47,7 @@ I developed an engaging and informative interactive dashboard using Tableau, pro
 [Car Sales Dash](https://public.tableau.com/app/profile/ryan.essem/viz/CarSalesDB/Dashboard1)
 
 I developed an interactive dashboard on 2020-2021 Car Sales data using Tableau, exploring key trends, patterns, and performance metrics within the automotive industry.
+<img src="images/dash12.png?raw=true" />
 
 ---
 
@@ -52,7 +55,6 @@ I developed an interactive dashboard on 2020-2021 Car Sales data using Tableau, 
 [Data manipulation (Python) ](https://github.com/ryessem7/PythonDataManip)
 
 Data cleaning/manipulation examples in python. 
-
 
 
 ---
