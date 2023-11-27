@@ -34,13 +34,24 @@ I developed a robust food industry database using MySQL, focusing on Hispanic re
 ---
 
 ### AirBnB Dashboard (Tableau)
+[AirBnB NYC Dash](https://public.tableau.com/app/profile/ryan.essem/viz/AirbnbDB_17010788237080/Dashboard1)
+
 I developed an engaging and informative interactive dashboard using Tableau, providing an overview of Airbnb listings in New York City. The dashboard showcases key insights such as average prices by neighborhood, top-rated areas and boroughs, total bookings, and more. This user-friendly visualization offers a dynamic exploration of the Airbnb landscape in the city, allowing users to effortlessly navigate and uncover valuable information about pricing trends, popular neighborhoods, and overall booking patterns in the vibrant metropolis of New York City.
 
 ---
 
+### Car Sales Dashboard (Tableau)
+[Car Sales Dash](https://public.tableau.com/app/profile/ryan.essem/viz/CarSalesDB/Dashboard1)
+I developed an interactive dashboard on 2020-2021 Car Sales data using Tableau, exploring key trends, patterns, and performance metrics within the automotive industry.
+
+---
+
+### Data Manipulation in Python
+[Data manipulation (Python) ](https://github.com/ryessem7/PythonDataManip)
+
+Data cleaning/manipulation examples in python. 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">
