@@ -6,7 +6,7 @@
 I conducted a comprehensive Business Sales Analysis to assist a company in identifying the most effective sales method for their new product line. In this project I meticulously examined historical sales data provided by the company's sales team to guide the company to the optimal sales approach in maximzing the success of their new product line.
 
 [Caliber Supplies Business Sales EDA](/https://github.com/ryessem7/SalesEDA)
-<img src="https://github.com/ryessem7/SalesEDA/assets/98337669/4c0f0be3-20d1-43f2-8ecf-5b39e5a410e2"/>
+<img src="https://github.com/ryessem7/SalesEDA/assets/98337669/164a4096-ae0a-4db5-a1fe-254161dc68b5"/>
 
 <img src="https://github.com/ryessem7/SalesEDA/assets/98337669/4c0f0be3-20d1-43f2-8ecf-5b39e5a410e2">
 
@@ -17,9 +17,8 @@ I conducted a comprehensive Business Sales Analysis to assist a company in ident
 I conducted a Linear Regression Analysis to explore the relationship between avocado bag sizes and prices. Utilizing a dataset sourced from Kaggle, I investigated various features to understand their impact on the Average Price of avocados. The goal was to determine if a predictive model could be established, shedding light on the factors influencing avocado prices. The findings contribute valuable insights into the pricing dynamics of avocado bags, providing a foundation for predictive modeling in the avocado market.
 
 [Linear Regression Analysis](/https://github.com/ryessem7/AvocadoMLR)
-<img src="https://github.com/ryessem7/AvocadoMLR/blob/main/Graph%201.png"/>
-
-<img src="https://github.com/ryessem7/AvocadoMLR/blob/main/Graph%202.png">
+<img src="https://github.com/ryessem7/AvocadoMLR/blob/d56c20cd0b3dfc2bca3f086e40bbd55daa40c677/Graph%201.png"/>
+<img src="https://github.com/ryessem7/AvocadoMLR/blob/d56c20cd0b3dfc2bca3f086e40bbd55daa40c677/Graph%202.png">
 
 ---
 
@@ -27,9 +26,9 @@ I conducted a Linear Regression Analysis to explore the relationship between avo
 I developed a robust food industry database using MySQL, focusing on Hispanic restaurants in the Washington, D.C., area. This database incorporates crucial details such as location, descriptive information, cuisine types, and customer reviews.
 
 [Hispanic Restaurants Database](https://github.com/ryessem7/Group6-Final-INST377SP2022/tree/main)
-<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/images/Screen%20Shot%202022-05-06%20at%206.58.14%20PM.png"/>
-<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/images/blob/main/images/rests.png">
-<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/images/blob/main/images/revs.png">
+<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/blob/3ef5cce796f42388a5d9f30201f4df508d7c836c/images/Screen%20Shot%202022-05-06%20at%206.58.14%20PM.png"/>
+<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/blob/3ef5cce796f42388a5d9f30201f4df508d7c836c/images/rests.png">
+<img src="https://github.com/ryessem7/Group6-Final-INST377SP2022/blob/main/images/revs.png">
 
 ---
 
