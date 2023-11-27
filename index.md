@@ -11,15 +11,15 @@ I conducted a comprehensive Business Sales Analysis to assist a company in ident
 <img src="https://github.com/ryessem7/SalesEDA/assets/98337669/4c0f0be3-20d1-43f2-8ecf-5b39e5a410e2">
 
 
----
+--- 
 
 ### Avocado Price Linear Regression Analysis (R)
 I conducted a Linear Regression Analysis to explore the relationship between avocado bag sizes and prices. Utilizing a dataset sourced from Kaggle, I investigated various features to understand their impact on the Average Price of avocados. The goal was to determine if a predictive model could be established, shedding light on the factors influencing avocado prices. The findings contribute valuable insights into the pricing dynamics of avocado bags, providing a foundation for predictive modeling in the avocado market.
 
 [Linear Regression Analysis](/https://github.com/ryessem7/AvocadoMLR)
-<img src="https://github.com/ryessem7/AvocadoMLR/Graph%201.png">
+<img src="https://github.com/ryessem7/AvocadoMLR/graphuno.png"/>
 
-<img src="https://github.com/ryessem7/AvocadoMLR/Graph%202.png">
+<img src="https://github.com/ryessem7/AvocadoMLR/graphdos.png">
 
 ---
 
