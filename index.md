@@ -18,7 +18,8 @@ I conducted a Linear Regression Analysis to explore the relationship between avo
 
 [Linear Regression Analysis](/https://github.com/ryessem7/AvocadoMLR)
 
-<img src="https://github.com/ryessem7/AvocadoMLR/blob/aee509ab9e231c1f4233f2409c4d9429a33e1e5a/assets/graphdos.png">
+<img src="https://github.com/ryessem7/AvocadoMLR/blob/main/docs/assets/graphuno.png"/>
+
 ---
 
 ### DC Hispanic Restaurants Database (SQL)
