@@ -18,7 +18,7 @@ I conducted a Linear Regression Analysis to explore the relationship between avo
 
 [Linear Regression Analysis](/https://github.com/ryessem7/AvocadoMLR)
 
-<img src="images/graphados.png?raw=true"/>
+<img src="https://github.com/ryessem7/ryessem7.github.io/blob/a43db36360bd08263621032bf3e92615b2c7d8d8/images/graphuno.png"/>
 
 ---
 
